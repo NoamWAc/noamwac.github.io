@@ -1,16 +1,16 @@
 # Welcome!
 
-## About Me
-----
+## A Bit About Noam:
 
-* I was born in Jerusalem
-* I have 10 niblings (nephews and nieces) from 4 of my siblings
-* Now a first-year MSc student
+
+* Born in Jerusalem
+* Has 10 niblings (nephews and nieces) from 4 of his siblings
+* Currently a first-year MSc student
 * Learned a bit of java programming, years ago
 
 ----
 
-Here's a picture of a python!
+And now, here's a pretty picture of a python!
 
 
 
