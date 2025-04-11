@@ -1,15 +1,16 @@
 # Welcome!
 
-## Nothing special
+## About Me
 ----
 
-* Practicing
-* mmm
-* 
+* I was born in Jerusalem
+* I have 10 niblings (nephews and nieces) from 4 of my siblings
+* Now a first-year MSc student
+* Learned a bit of java programming, years ago
 
 ----
 
-
+Here's a picture of a python!
 
 
 
