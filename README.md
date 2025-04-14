@@ -10,10 +10,9 @@
 
 ---
 
-<details> <summary>And now, here's a pretty picture of a python!</summary>
+And now, here's a pretty picture of a python!  
 
 ![A python](https://cdn.britannica.com/57/159857-050-BEDD9461/python-ball.jpg)
-</details>
 
 ***  
 ### Contact Info
