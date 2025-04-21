@@ -2,11 +2,17 @@
 
 ## A Bit About Noam Weil:
 
-
+### Personal
 * Born in Jerusalem
-* Has 10 niblings (nephews and nieces) from 4 of his siblings
-* Currently a first-year MSc student
-* Learned a bit of java programming, years ago
+* 30 years old
+* Has 10 lovely niblings (nephews and nieces)  
+
+
+### Academic
+* First degree in Biotechnology
+* Currently a first-year MSc student in Life Sciences
+* Varied research interests, project as yet undecided
+
 
 ---
 
